@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(214, 203, 189);
+}
+
+section{
+    width: 800px;
+    height:500px ;
+    background-color: rgb(212, 224, 236);
+    border: 5px solid White;
+    margin: 100px auto;
+    border-radius: 5px;
+}
+section>h1{
+    width:90% ;
+    border: 2px solid blueviolet;
+   
+    margin: 40px auto;
+}
+.divs{
+display: flex;
+
+}
+.div{
+   
+    width: 200px;
+    height: 250px;
+    background-color: rgb(256, 256, 256);
+    margin: 30px 30px;
+   text-align: center;
+    border: 2px solid rgb(256, 256, 256);
+    border-radius: 20px  ;
+    
+}
+button{
+    width: 80%;
+    height: 40px;
+    background-color: rgb(30, 34, 255);
+    border: 2px solid rgb(212, 224, 236);
+    border-radius: 10px;
+    color: white;
+}
+i{
+    margin: 20px 0;
+   font-size: 30px;
+}
